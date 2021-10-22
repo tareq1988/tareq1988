@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am [Tareq Hasan](https://tareq.co/?utm_source=github&utm_medium=tareq1988), an entrepreneur, developer and open-source enthusiastic. I love and work with PHP, WordPress, Laravel, Vue, React, Node and bash. 
+I am [Tareq Hasan](https://tareq.co/?utm_source=github&utm_medium=tareq1988), an entrepreneur, developer, and open-source enthusiast. I love and work with PHP, WordPress, Laravel, Vue, React, Node, and bash.
 
-I dabble with code, design and DevOps, love to build product and solutions. I founded [@weDevs](https://wedevs.com/?utm_source=github&utm_medium=tareq1988) – a product company, where we empower small to medium businesses around the world with our software solutions.
+I dabble with code, design, and DevOps, love to build products and solutions. I founded [@weDevs](https://wedevs.com/?utm_source=github&utm_medium=tareq1988) – a product company, where we empower small to medium businesses around the world with our software solutions.
 
 Some of our products include:
 
